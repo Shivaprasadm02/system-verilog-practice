@@ -1,0 +1,7 @@
+Start time: 16:42:15 on Jan 31,2023
+qverilog passref.sv 
+-- Compiling module top
+** Error: passref.sv(6): (qverilog-2400) Identifier ('transaction') found where a type or type identifier is required.
+** Error: passref.sv(14): (qverilog-2730) Undefined variable: 't1'.
+End time: 16:42:15 on Jan 31,2023, Elapsed time: 0:00:00
+Errors: 2, Warnings: 0

@@ -23,7 +23,7 @@ begin
 	t.a=10;
 	t2.a=20;
 //t1=new t;-->err cz t1 and t are of different class type
-$display("trans is %p\n , trans copy is %p\n,trans1 is %p",t,t2,t1);
+	$display("trans is %p\n , trans copy is %p\n,trans1 is %p",t,t2,t1);
 end
 
 endmodule
